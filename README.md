@@ -49,8 +49,8 @@ TradePulse is a high-throughput, production-grade Quantitative Trading & Portfol
 ---
 
 ## 👥 Authors
-* **Bisma Munir** (Roll No: BSDSF23M005) - *Backend & DevOps Lead*
-* **Naimah Rehman** (Roll No: BSDSF23M011) - *Data Engineer & Dashboard Lead*
+* **Bisma Munir** (Roll No: BSDSF23M005) — *Data Engineer & Dashboard Lead*
+* **Naimah Rehman** (Roll No: BSDSF23M011) — *Backend Developer & DevOps Lead*
 
 **University:** Punjab University College of Information Technology (PUCIT)  
 **Department:** Data Science  
